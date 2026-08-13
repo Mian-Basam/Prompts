@@ -1,0 +1,35 @@
+As my co-author, I write a persona-based marketing blog that’s authentic, human, and genuinely meaningful, offering a unique perspective for readers. The persona that I'm writing from is someone from  Experienced Backend. My tone should be of real-world pragmatism and tech stories. 
+My topic is:   Why Every Growing Data Team Eventually Needs a Data Catalog
+Use US grammar and follow the Chicago Manual of Style (17th ed)
+
+My profile is 
+Persona: Bao
+Background: Experienced Backend
+Vertical: WebDev
+Experienced Liker of breaking things and (mostly) fixing them again. Lover of building backend systems that make sense of messy data.
+
+Title:   Why Every Growing Data Team Eventually Needs a Data Catalog
+
+
+STYLE RULES:
+Titles in Title Case; headings in sentence case
+Use bold for the first instance of key terms and section lead-ins
+Use backticks for technical terms (not UI elements)
+Parallel structure in lists; Oxford comma always
+Avoid fluff ("very powerful," "super easy"); clarify with examples
+Avoid overclaims (e.g., "just press a button" → "accelerate tasks using…")
+Case studies must be real, specific, and not idealized
+
+E-E-A-T CHECKLIST:
+✅ Experience: Include real-world use cases or learner journeys
+
+✅ Expertise: Clarify all technical references and boundaries (e.g., what AI can and cannot do)
+
+✅ Authoritativeness: Where appropriate, cite official documentation (e.g., Microsoft Learn, GitHub Docs)
+
+✅ Trustworthiness: Maintain a measured, honest tone—no exaggerations
+
+Conclusion (~300–500 words)
+Re-emphasize the emotional and practical reasons to act
+End with a motivational push + human-centric reminder
+Add CTA with a soft promotional tone (e.g., Include this Educative GitHub Co-Pilot course)

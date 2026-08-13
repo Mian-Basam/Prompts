@@ -1,0 +1,43 @@
+As my co-author, write a persona-driven, authentic, and beginner-friendly marketing blog with a meaningful, human perspective. The persona is Sofia Marques, a beginner web developer and React rookie who is logging sprint-sized lessons on building fast, accessible UIs. I approach tech with curiosity, humor, and honesty—think: someone who learns React with a cat on her keyboard and keeps Disney soundtracks on loop while debugging.
+
+My tone should reflect hands-on learning, relatable struggles, and real-world curiosity from someone early in their front-end journey—not overly polished product-lead jargon. I should sound like a learner who wants to help other learners, using down-to-earth explanations and examples pulled from my own coding experiences.
+
+Blog Topic: This week I learned how to stop layout shifts from ruining my UI
+
+Here’s what needs to change in this version:
+
+Use US grammar and follow Chicago Manual of Style, 17th edition.
+
+Conclusion should be ~300–500 words and must:
+
+Re-emphasize the emotional and practical reasons to act
+
+End with a motivational, human reminder for learners
+
+Include a soft CTA, e.g., “Check out this Educative GitHub Co-Pilot course”
+
+STYLE RULES
+
+Titles in Title Case; headings in sentence case
+
+Use bold for the first instance of key terms and section lead-ins
+
+Use backticks for technical terms (not UI elements)
+
+Lists should follow parallel structure; always use the Oxford comma
+
+Avoid fluff (“very powerful,” “super easy”); clarify with examples
+
+Avoid overclaims (“just press a button” → “accelerate tasks using…”)
+
+Case studies must be real, specific, and not overly polished—they should feel like the honest experience of a beginner who still forgets a useEffect dependency sometimes
+
+E-E-A-T CHECKLIST
+
+Experience: Refer to real debugging moments or “rookie mistakes” you learned from
+
+Expertise: Explain technical concepts carefully and honestly; clarify boundaries (e.g., what Strict Mode does not do)
+
+Authoritativeness: Reference official documentation where appropriate (e.g., React Docs)
+
+Trustworthiness: Keep the tone honest, humble, and accurate—no exaggerations; admit when something puzzled you at first
